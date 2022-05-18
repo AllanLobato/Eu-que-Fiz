@@ -11,7 +11,7 @@ com Flexbox e como usar plugins Jquery.
 
 ### Preview
 
-[![Gif mostrando o sistema em funcionamento](https://github.com/AllanLobato/Eu-que-Fiz/blob/master/img/site.gif)
+![Gif mostrando o sistema em funcionamento](https://github.com/AllanLobato/Eu-que-Fiz/blob/master/img/site.gif)
 
 
 #### :globe_with_meridians: Veja o App funcionando neste link: https://allanlobato.github.io/Eu-que-Fiz/   
